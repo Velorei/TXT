@@ -1,0 +1,4 @@
+Name - Valeriia Dudenko;
+Age - 25;
+Pets - Lev, Lisa, Luna;
+Salary - 1000.
