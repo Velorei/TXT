@@ -1,0 +1,5 @@
+favorite movie: The Notebook,
+favorite series: Magnificent Century,
+favorite food: Lazagna,
+favorite season: Winter,
+favorite country: Turkiye.
